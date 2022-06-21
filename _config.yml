@@ -1,1 +1,2 @@
-theme: jekyll-theme-hacker
+remote_theme: zerostaticthemes/jekyll-serif-theme
+baseurl: "/"
